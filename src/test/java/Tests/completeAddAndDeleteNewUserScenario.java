@@ -19,7 +19,7 @@ public class completeAddAndDeleteNewUserScenario extends TestesBase{
 	
 	public String userName = "Admin";
 	public String pass = "admin123";
-	public String EmployeeName = "Abiodun  Adisa";
+	public String EmployeeName = "axel  blaze";
 	public String passConfirmation = "admin123";
 	public String newUserName = "Admin3";
 	public String userPassword = "admin123";
