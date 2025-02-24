@@ -22,7 +22,7 @@ Feature: User Management in OrangeHRM
 
   Examples:
     | employeeName | password  | newUserName | userPassword |
-    | axel  blaze  | admin123  | Admin3      | admin123     |
+    | a  | admin123  | Admin3      | admin123     |
 
   Scenario Outline: Search for and delete the new user
     Given I am on the Admin page
